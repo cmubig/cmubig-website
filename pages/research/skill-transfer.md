@@ -1,7 +1,7 @@
 ---
 layout              : default
 show_meta           : false
-title               : "Creative Artificial Intelligence"
+title               : "Robot Skill Transfer"
 subheadline         : "BIG Research"
 teaser              : ""
 header: no
@@ -23,7 +23,7 @@ widget3:
   image: coolin_painted.gif
   text: 'Using an affordable robot arm to "hand" paint animation frames.'
 
-permalink           : "/research/creative-ai"
+permalink           : "/research/skill-transfer"
 ---
 
 <div class="row">
@@ -32,7 +32,6 @@ permalink           : "/research/creative-ai"
 </div>
 
 <div class="row t60">
-    <h1>Selected Publications</h1>
     {% if page.widget1.image or page.widget1.video or page.widget1.title %}
         {% include _frontpage-widget.html widget=page.widget1 %}
     {% endif %}

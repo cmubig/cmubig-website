@@ -12,11 +12,11 @@
   dropdown:
   - title: "Creative Artificial Intelligence"
     url: "/research/creative-ai/"
-  - title: "Social Navigation"
+  - title: "Social Robot Navigation"
     url: "/research/social-navigation"
-  - title: "Vision-Language Navigation"
-    url: "/research/vl-navigation/"
-  - title: "Skill Transfer"
+  - title: "Semantic Robot Navigation"
+    url: "/research/semantic-navigation/"
+  - title: "Robot Skill Transfer"
     url: "/research/skill-transfer"
 
 
