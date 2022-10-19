@@ -11,21 +11,21 @@
   side: right
   dropdown:
   - title: "Creative Artificial Intelligence"
-    url: "/research/creative-ai/"
+    url: "/research/creative-ai"
   - title: "Social Robot Navigation"
     url: "/research/social-navigation"
   - title: "Semantic Robot Navigation"
-    url: "/research/semantic-navigation/"
+    url: "/research/semantic-navigation"
   - title: "Robot Skill Transfer"
     url: "/research/skill-transfer"
 
 
 - title: Publications
-  url: "/publications/"
+  url: "/publications"
   side: right
 
 - title: People
-  url: "/people/"
+  url: "/people"
   side: right
 
 # - title: "Templates"
